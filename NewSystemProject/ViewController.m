@@ -39,6 +39,8 @@
 
     
     NSLog(@"草");
+    
+    NSLog(@"我日他大爷");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
