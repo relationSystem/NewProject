@@ -31,7 +31,12 @@
     //我曹
     NSLog(@"我曹");
     NSLog(@"My stupid boss still perfers SVN");
+
     NSLog(@"你大爷的  妈卖批");
+
+    
+    NSLog(@"我日他大爷,这是啥");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
