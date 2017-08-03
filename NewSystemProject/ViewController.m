@@ -20,6 +20,13 @@
     int b = 10;
     int c = a + b;
     NSLog(@"%d",c);
+    
+    
+    //swap(a,b)
+     a = a + b;
+     b = a - b;
+     a = a - b;
+    NSLog(@"a = %d, b = %d", a, b);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
