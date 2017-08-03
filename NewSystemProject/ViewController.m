@@ -37,6 +37,10 @@
     
     NSLog(@"我日他大爷,这是啥");
 
+    
+    NSLog(@"草");
+    
+    NSLog(@"我正在开开心心的工作,来了一个bug");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
