@@ -27,6 +27,11 @@
      b = a - b;
      a = a - b;
     NSLog(@"a = %d, b = %d", a, b);
+    
+    //我曹
+    NSLog(@"我曹");
+    NSLog(@"My stupid boss still perfers SVN");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
