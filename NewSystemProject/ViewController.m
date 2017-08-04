@@ -41,6 +41,8 @@
     NSLog(@"草");
     
     NSLog(@"我日他大爷");
+    
+    NSLog(@"刚刚影藏了不要的文件.gitignore");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
